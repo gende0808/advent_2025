@@ -18,7 +18,6 @@ function part1()
     }
     echo $answer;
 }
-
 function part2()
 {
     $input = explode(",", file_get_contents("test.txt"));
